@@ -19,6 +19,9 @@ class _ScreenOneState extends State<ScreenOne> {
               SizedBox(
                 height: 20,
               ),
+              SizedBox(
+                height: 20,
+              ),
               Row(
                 children: [
                   SizedBox(
